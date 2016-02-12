@@ -26,7 +26,7 @@ sampling and OS*.
   - Numpy
   - Scipy
   - Matplotlib
-  - [Pulp](https://github.com/coin-or/pulp)
+  - [Pulp](https://github.com/coin-or/pulp) (just for the Ising model example)
 
 ## Running examples
 For example
