@@ -1,3 +1,5 @@
+"""Draw a sample from the posterior in robust Bayesian regression."""
+
 import matplotlib.pyplot as plt
 import osstar
 import numpy as np
@@ -154,7 +156,7 @@ def main():
     x, y = generate_data(1000)
     target = CauchyRegression(x, y, sigma)
 
-    # ======== RUN THIS ISH ===============
+    # ======== RUN ===============
     
     M = 1
     N = 1000
