@@ -16,8 +16,6 @@ astar_sampling_iterator(distribution, proposal, bounder, splitter)
 See sin.py or softmax.py or clutter.py for examples of use.
 """
 
-__version__ = '1.0.1'
-
 from itertools import imap
 import heaps
 import numpy as np
