@@ -8,7 +8,7 @@ a proposal distribution as well as bounds on
 the log ratio of densities. This is the same
 information used by rejection sampling 
 algorithms. If the tightness of bounds 
-improves with shrinking region volume, then
+improves as the volume of the region shrinks, then
 A* sampling is asymptotically efficient ---
 in the limit, for every proposal consumed 
 one sample is produced. This does not mean 
